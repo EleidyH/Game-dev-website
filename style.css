@@ -720,3 +720,165 @@ button:hover {
         font-size: 25px;
         color: white;
     }
+
+/*text blokken voor favoriete goede doel*/
+
+.textblock1 {
+    background-color: #065807;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 20%; /* Center vertically */
+    right: 27%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+    font-size: 15px;
+  }
+
+  /* Style for the text inside the color */
+.textblock1 h1 {
+     color: white; /* Optional: Set text color to white for better visibility */
+    margin: 0; /* Remove default margin to ensure text fills the entire space */
+}
+
+.textblock2 {
+    background-color: #18C0E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 50%; /* Center vertically */
+    right: 80%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+  }
+
+.textblock2, .textblock3, .textblock4 p {
+    color: white; /* Optional: Set text color to white for better visibility */
+   margin: 0; /* Remove default margin to ensure text fills the entire space */
+}
+
+.textblock3 {
+    background-color: #18C0E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 35%; /* Center vertically */
+    right: 42%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+  }
+
+  .textblock4 {
+    background-color: #18C0E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 45%; /* Center vertically */
+    right: 10%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+  }
+
+  /*Textblokken voor portofolio en games*/
+
+  .textblock5 {
+    background-color: #11cfdd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 50%; /* Center vertically */
+    right: 27%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+    font-size: 15px;
+  }
+
+    /* Style for the text inside the color */
+.textblock5 h1 {
+    color: white; /* Optional: Set text color to white for better visibility */
+   margin: 0; /* Remove default margin to ensure text fills the entire space */
+}
+
+.textblock6 {
+    background-color: #065807;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 20%; /* Center vertically */
+    right: 27%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+    font-size: 15px;
+  }
+
+  .textblock6 h1 {
+    color: white; /* Optional: Set text color to white for better visibility */
+   margin: 0; /* Remove default margin to ensure text fills the entire space */
+}
+
+.textblock7 {
+    background-color: #11cfdd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 50%; /* Center vertically */
+    right: 27%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+    font-size: 15px;
+  }
+
+    /* Style for the text inside the color */
+.textblock7 h1 {
+    color: white; /* Optional: Set text color to white for better visibility */
+   margin: 0; /* Remove default margin to ensure text fills the entire space */
+}
+
+.textblock8 {
+    background-color: #18C0E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 50%; /* Center vertically */
+    right: 75%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+  }
+
+  .textblock9 {
+    background-color: #18C0E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%; /* Set a percentage width for responsiveness */
+    padding: 1%; /* Set a percentage padding for responsiveness */
+    position: fixed;
+    top: 50%; /* Center vertically */
+    right: 20%; /* Align to the right */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    border-radius: 20px;
+  }
