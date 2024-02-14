@@ -13,13 +13,13 @@
 /*Portofolio css*/
 :root {
     --bg-color: #081b29;
-    --main-color: #04dbf7;
+    --main-color: #0482f7;
     --text-color: #333;
     --second-text-color: #555;
     --white-color: #fff;
     --cover-color: linear-gradient(45deg, #00abf0, #006e9a);
     --pages-color: linear-gradient(90deg, #fff, #ddd);
-    --border: .125rem solid #0d45ac;
+    --border: .125rem solid #0da2ac;
     --box-shadow: 0 0 .6rem rgba(0, 0, 0, .2);
 }
 
